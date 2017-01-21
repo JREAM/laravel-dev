@@ -1,0 +1,4 @@
+- Models appear to be non-plural
+- Controllers appear to be plural (dbl check)
+- Set table meta in the migration after creating one.
+- Read more on the docs.
